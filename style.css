@@ -208,7 +208,7 @@ body {
     font-size: 3vw;
 }
 
-.page1-container figure img {
+.page1-container figure svg {
     width: 100%;
     height: 100%;
     object-fit: cover;
